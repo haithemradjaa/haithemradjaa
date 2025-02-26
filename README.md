@@ -4,7 +4,7 @@ I am a computer science student, online programming tutor, an enthusiast, and a 
 
 ![algerian with a keyboard on youtube, go check it out!](https://raw.githubusercontent.com/haithemradjaa/haithemradjaa/main/تعلم%20البرمجة%20بالدارجة%20الجزائرية%20learn%20how%20to%20program%20in%20algerian%20language%20darija.png)
 
-You surely would think : "How can a computer science student be teaching it ??" well, check out my lessons here and give me your feedback 👇🏻
+You surely would think : "How can a computer science student be teaching it ??" well, check out my lessons down here 👇🏻 and give me your feedback, It matters!
 
 ## 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -18,10 +18,14 @@ You surely would think : "How can a computer science student be teaching it ??" 
 
 ![haithemradjaa's Stats](https://github-readme-stats.vercel.app/api?username=haithemradjaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+## Technologies I use 🧰
+[![My Skills](https://skillicons.dev/icons?i=kali,debian,firebase,git,github,notion,obsidian,vscode)](https://skillicons.dev)
 
+## My personal dev stack (growing of course!) 🧰
+[![My Skills](https://skillicons.dev/icons?i=c,dart,java,py,js,html,css,wasm)](https://skillicons.dev)
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Future milestones! ⏳
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,nodejs,tailwind,ts)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
