@@ -2,7 +2,7 @@
 
 I am a computer science student, online programming tutor, an enthusiast, and a truly passionate individual about everything that concerns computers! I showcase that passion through teaching people computer science in Algerian Darija (the Algerian language) easing their way into this vast, hustle-driven world 🎓
 
-![My Image](https://raw.githubusercontent.com/your-username/haithemradjaa/main/تعلم%20البرمجة%20بالدارجة%20الجزائرية%20learn%20how%20to%20program%20in%20algerian%20language%20darija.png)
+![algerian with a keyboard on youtube, go check it out!](https://raw.githubusercontent.com/haithemradjaa/haithemradjaa/main/تعلم%20البرمجة%20بالدارجة%20الجزائرية%20learn%20how%20to%20program%20in%20algerian%20language%20darija.png)
 
 You surely would think : "How can a computer science student be teaching it ??" well, check out my lessons here and give me your feedback 👇🏻
 
