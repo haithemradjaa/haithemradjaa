@@ -25,6 +25,6 @@ You surely would think : "How can a computer science student be teaching it ??" 
 [![My Skills](https://skillicons.dev/icons?i=c,dart,java,py,js,html,css)](https://skillicons.dev)
 
 ## Future milestones  ⏳
-[![My Skills](https://skillicons.dev/icons?i=react,mongodb,nodejs,tailwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,mongodb,nodejs,tailwind,ts)](https://skillicons.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
