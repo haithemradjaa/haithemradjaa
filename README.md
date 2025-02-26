@@ -7,8 +7,8 @@ I am a computer science student, online programming tutor, an enthusiast, and a 
 You surely would think : "How can a computer science student be teaching it ??" well, check out my lessons here and give me your feedback 👇🏻
 
 ## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![haithemradjaa's Stats](https://github-readme-stats.vercel.app/api?username=haithemradjaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
